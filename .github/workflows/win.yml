@@ -2,7 +2,7 @@ name: Win CI
 on:
   push:
     branches:
-      - main
+      - main1
 
 jobs:
   build:
